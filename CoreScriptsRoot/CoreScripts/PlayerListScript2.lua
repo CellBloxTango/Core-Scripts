@@ -90,6 +90,7 @@ local ADMINS = {	-- Admins with special icons
     ['13268404'] = 'http://www.roblox.com/asset/?id=113059239', -- Sorcus
     ['261'] = 'http://www.roblox.com/asset/?id=105897927', -- shedlestky
     ['20396599'] = 'http://www.roblox.com/asset/?id=161078086', -- Robloxsai
+    ['4587'] = 'http://www.roblox.com/asset/?id=248241473', -- yo momma776
 }
 
 local ABUSES = {
